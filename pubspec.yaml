@@ -1,7 +1,7 @@
 name: deta_drive
 description: A dart helper library for Deta Drive cloud storage 
 version: 1.0.0
-homepage: https://www..com
+homepage: https://github.com/DonnC/deta_drive
 
 environment:
   sdk: '>=2.15.0 <3.0.0'
