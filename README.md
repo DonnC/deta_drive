@@ -1,7 +1,9 @@
 ## Deta Drive Dart
 A dart library for [**Deta**](https://docs.deta.sh/docs/) Drive Cloud Service
 
-!Please never expose your private keys or push into public version control
+## Very Important
+**Please note, deta is ONLY used for SERVER side applications and not user applications, so do not use your keys in your flutter production apps as hackers can reverse engineer your code and access deta keys, for more check
+ the comment from [@detahq](https://twitter.com/detahq/status/1505893137012736002?s=20&t=wE2VzUwhMzpO3TvpElx0OA) on twitter**
 
 ## Features
 - Upload file to deta storage
